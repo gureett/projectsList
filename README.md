@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/gureett/projectsList/"><img src="https://avatars.githubusercontent.com/u/114324924?v=4" alt="Projects" width="200"></a>
   <br>
-  <b>Projects List</b>
+  <b>My Projects List</b>
   <br>
 </h1>
 
