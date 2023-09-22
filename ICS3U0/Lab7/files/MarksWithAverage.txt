@@ -1,0 +1,12 @@
+Bob
+100%
+Tim Cook
+92%
+Jeff Bezos
+64%
+Henry
+57%
+Ben
+15%
+Average:
+65.6%
