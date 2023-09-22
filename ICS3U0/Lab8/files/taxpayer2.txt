@@ -1,0 +1,21 @@
+20
+Alex Karp,Palantir Technologies,264229473
+Robert Scaringe,Rivian Automotive,2289370481
+Max Levchin,Affirm Holdings,451207726
+Jason Kelly,Ginkigo Bioworks Holdings,380742276
+Tom Siebel,C3.ai,343925146
+Ariel Emmanuel,Endeavor Group Holdings,294949638
+Sue Nabi,Coty,283791455
+Tim Cook,Apple,853780236
+David Zaslav,Warner Bros. Discovery,246573481
+Scott Nuttall,KKR,233349930
+Brian Armstrong,Coinbase,218090453
+Joe Bae,KKR,279100653
+Tomer Weingarten,SentinelOne,275775959
+Peter Kern,Expedia Group,296247749
+Elon Musk,Tesla,10077116351
+Alex Rodrigues,Embark Technology,252467967
+Zig Serafin,Qualtrics International,540513050
+Sid Sijbrandij,GitLab,263703427	
+Peter Rawlinson,Lucid,575681738
+Jeff Green,The Trade Desk,834959367

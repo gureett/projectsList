@@ -1,0 +1,20 @@
+Elon Musk,Tesla,$10,077,116,351.00,$5,340,871,666.03
+Robert Scaringe,Rivian Automotive,$2,289,370,481.00,$1,213,366,354.93
+Tim Cook,Apple,$853,780,236.00,$452,503,525.08
+Jeff Green,The Trade Desk,$834,959,367.00,$442,528,464.51
+Peter Rawlinson,Lucid,$575,681,738.00,$305,111,321.14
+Zig Serafin,Qualtrics International,$540,513,050.00,$286,471,916.50
+Max Levchin,Affirm Holdings,$451,207,726.00,$239,140,094.78
+Jason Kelly,Ginkigo Bioworks Holdings,$380,742,276.00,$201,793,406.28
+Tom Siebel,C3.ai,$343,925,146.00,$182,280,327.38
+Peter Kern,Expedia Group,$296,247,749.00,$157,011,306.97
+Ariel Emmanuel,Endeavor Group Holdings,$294,949,638.00,$156,323,308.14
+Sue Nabi,Coty,$283,791,455.00,$150,409,471.15
+Joe Bae,KKR,$279,100,653.00,$147,923,346.09
+Tomer Weingarten,SentinelOne,$275,775,959.00,$146,161,258.27
+Alex Karp,Palantir Technologies,$264,229,473.00,$140,041,620.69
+Sid Sijbrandij,GitLab,$263,703,427.00,$139,762,816.31
+Alex Rodrigues,Embark Technology,$252,467,967.00,$133,808,022.51
+David Zaslav,Warner Bros. Discovery,$246,573,481.00,$130,683,944.93
+Scott Nuttall,KKR,$233,349,930.00,$123,675,462.90
+Brian Armstrong,Coinbase,$218,090,453.00,$115,587,940.09

@@ -1,0 +1,21 @@
+20
+Joseph Papa,Valeant Pharmaceuticals International Inc,83131252
+Donald Walker,Magna International Inc,28614462
+Guy Laurence,Rogers Communications Inc,24602993
+Daniel Friedmann,Macdonald Dettwiler & Associates Ltd,21427253
+Hunter Harrison,Canadian Pacific Railway Ltd,18829794
+James Smith,Thomson Reuters Corp,17777458
+Doug Suttles,Encana Corp,17592105
+Geoffrey Martin,CCL Industries Inc,17370182
+J. Michael Pearson,Valeant Pharmaceuticals International Inc,15871791
+Ronald Mittelstaedt,Waste Connections Inc,15854660,
+Donald Guloien,Manulife Financial Corp,15381055
+Linda Hasenfratz,Linamar Corp,14641474
+Joseph D. Quarin,Waste Connections Inc,14192790
+Darren Entwistle,Telus Corp,12905331
+Ignacio Deschamps,Bank of Nova Scotia,12752408
+Alain Bellemare,Bombardier Inc,12578009
+David McKay,Royal Bank of Canada,12245393
+Jerry Fowden,Cott Corporation,12131757
+Frank Hasenfratz,Linamar Corp,11997955
+N. Murray Edwards,Canadian Natural Resources Ltd,11893926
