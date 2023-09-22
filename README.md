@@ -12,7 +12,7 @@
 <p align="center">
   <a href="#ICS3U0">ICS3U0</a> |
   <a href="#ICS4U0">ICS4U0</a> |
-  <a href="#uWaterloo"uWaterloo CCC</a>
+  <a href="#uWaterloo">uWaterloo CCC</a>
 </p>
 
 ## ICS3U0
