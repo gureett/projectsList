@@ -3,4 +3,7 @@ Then it sends all the information to the user.
 Uses free API resources
 
 Changelog:
-V1: Sends only through Discord Webhooks
+V1:
+  -Sends only through Discord Webhooks
+  -Sends current weather, windspeed, and relative humidity
+  -Sends every morning
