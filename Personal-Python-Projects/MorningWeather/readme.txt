@@ -2,4 +2,5 @@ This projects takes in location data from the user, gets the longitude and latit
 Then it sends all the information to the user.
 Uses free API resources
 
+Changelog:
 V1: Sends only through Discord Webhooks
