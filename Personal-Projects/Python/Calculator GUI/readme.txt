@@ -1,0 +1,1 @@
+Simple Calculator app created with Tkinter GUI
