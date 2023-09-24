@@ -13,8 +13,7 @@
   <a href="#ICS3U0">ICS3U0</a> |
   <a href="#ICS4U0">ICS4U0</a> |
   <a href="#uWaterloo">uWaterloo CCC</a> |
-  <a href="#Personal-Java-Projects">Personal Java Projects</a> |
-  <a href="#Personal-Python-Projects">Personal Python Projects</a>
+  <a href="#Personal-Projects">Personal Projects</a> 
 </p>
 
 ## ICS3U0
@@ -26,9 +25,5 @@
 ## uWaterloo
 --
 
-## Personal-Java-Projects
---
-
-
-## Personal-Python-Projects
+## Personal-Projects
 --
