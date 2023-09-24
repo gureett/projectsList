@@ -1,0 +1,1 @@
+Simple Clock app with a GUI made through tkinter.
