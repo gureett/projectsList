@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: When using sort1 on sorted10000.txt, it yielded a faster time and we know that selection sort has to go through all of the numbers and compare them while bubblesort can one through them once and determine that it is sorted making it faster.
+
+sort2 uses: Merge Sort
+
+How do you know?: When timing the sort method, we can see that it took 0.074 seconds which was the fastest out of all the sorting methods. Remembering what we learned in the lecture is that divide and conquering is much faster and this would be a representation of log n.
+
+sort3 uses: Selection Sort
+
+How do you know?: It takes the longest time in all the tests and it resorts the sorted text files since it has an omega of n squared.
