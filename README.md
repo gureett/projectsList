@@ -2,11 +2,9 @@
   <br>
   <a href="https://github.com/gureett/projectsList/"><img src="https://avatars.githubusercontent.com/u/114324924?v=4" alt="Projects" width="200"></a>
   <br>
-  <b>My Projects List</b>
+  <b>My Coding Projects Repository</b>
   <br>
 </h1>
-
-# My Coding Projects Repository
 
 Welcome to my coding projects repository! This repository contains a collection of coding projects I have completed for various courses and personal interests. Below, you will find a list of projects categorized by course and programming language.
 
