@@ -1,0 +1,5 @@
+If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+If we suppose that Spotify determines an audio aura by looking at the average energy, valence, and danceability then we can characterize one listener by their audio aura by looking at the various different audio aura's in the database corresponding to that user and use that data alongside another dataset which links different audio auras to moods and types of music
+
+Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener. What better ways of calculating this aura would you propose?
+The way we have calculated this aura might not be very representative of the listener as either the dataset can be too large or too small as for someone who listens to a lot of various songs, looking at their top 100 may not be enough but for someone who doesn't listen to many songs, looking at their top 100 might be a lot so we should also take in to determination how frequently they listen to music.
