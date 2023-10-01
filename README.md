@@ -113,9 +113,9 @@ Welcome to my coding projects repository! This repository contains a collection 
    - Documentation: [Link](#)
 
 ## Personal Projects
-1. **Python Automation Scripts**
-   - Description: Various Python scripts for automation tasks.
-   - Code: [Link](#)
+1. **Python Morning Weather Script**
+   - Description: Sends the morning forcast for the specified city to the user
+   - Code: [Personal-Projects/Python/MorningWeather](#)
    - Documentation: [Link](#)
 
 2. **Java Personal Projects**
