@@ -115,7 +115,7 @@ Welcome to my coding projects repository! This repository contains a collection 
 ## Personal Projects
 1. **Python Morning Weather Script**
    - Description: Sends the morning forcast for the specified city to the user
-   - Code: [Personal-Projects/Python/MorningWeather](#)
+   - Code: [Link](Personal-Projects/Python/MorningWeather)
    - Documentation: [Link](#)
 
 2. **Java Personal Projects**
