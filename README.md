@@ -20,18 +20,12 @@ Welcome to my coding projects repository! This repository contains a collection 
 9. [Personal Projects](#personal-projects)
 
 ## ICS3U0 - Java Projects
-1. **Project 1: Simple Java Calculator**
-   - Description: A basic Java program that performs arithmetic calculations.
+1. **Project 1: Sorting CEO's**
+   - Description: A basic Java program that takes in CEO incomes and sorts them accordingly, allowing the user to search for a specific person.
    - Code: [Link](#)
-   - Documentation: [Link](#)
 
-2. **Project 2: Java Quiz Game**
-   - Description: A Java quiz game that quizzes users on various topics.
-   - Code: [Link](#)
-   - Documentation: [Link](#)
-
-3. **Project 3: Java File Manipulation Tool**
-   - Description: A Java program that allows users to manipulate text files.
+2. **Project 2: InsurePlus - Insurance Policy Comparer**
+   - Description: Finds the best insurance policy from a dataset for a specific price range.
    - Code: [Link](#)
    - Documentation: [Link](#)
 
