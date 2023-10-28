@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Google Image Search</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="index.html">Google Search</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="advanced.html">Advanced Search</a>
+            </li>
+        </ul>
+    </nav>
+    <div class="container text-center my-5">
+        <form action="https://www.google.com/search" method="GET">
+            <div class="position-relative">
+                <img src="icon.png" alt="Search Icon" class="img-search-icon img-fluid">
+                <input type="text" name="q" class="form-control input-search" autofocus>
+            </div>
+            <div class="d-flex justify-content-center mt-2">
+                <input type="submit" value="Google Image Search" class="btn btn-primary mr-2">
+            </div>
+            <input type="hidden" name="tbm" value="isch">
+        </form>
+    </div>
+</body>
+</html>
