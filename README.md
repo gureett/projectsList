@@ -7,6 +7,7 @@
 </h1>
 
 Welcome to my coding projects repository! This repository contains a collection of coding projects I have completed for various courses and personal interests. Below, you will find a list of projects categorized by course and programming language.
+
 *Warning : This repo contains files for various CS50 courses, please read about [CS50's Academic Honesty rules](https://cs50.harvard.edu/college/2023/fall/syllabus/#academic-honesty) before continuing!*.
 
 ## Table of Contents
